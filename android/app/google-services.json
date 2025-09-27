@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654629038116",
+    "project_id": "duftesdepot",
+    "storage_bucket": "duftesdepot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654629038116:android:a66d18f7179c97c627d0b1",
+        "android_client_info": {
+          "package_name": "com.company.dufteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymkmTaEPK3ww3SAalciayKVgEtFoZ4VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654629038116:android:63e1adf2dd07660a27d0b1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mh_dufte_depot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymkmTaEPK3ww3SAalciayKVgEtFoZ4VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
